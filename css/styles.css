@@ -1,0 +1,151 @@
+html{
+    position: relative;
+}
+body{
+    position: relative;
+    margin: 0;
+}
+#header{
+    position: relative;
+}
+#header1{
+    position: relative;
+    background-color: #d9230e;
+    height: 5.8rem;
+    /* width 100%; */
+}
+.navbar1 button{
+    float:right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #d9230e;
+    padding: 11px 25px;
+    border-radius: 5px;
+    border: none;
+    font-weight: 600;
+    word-spacing: 3px;
+    margin: 32px;
+    background-color: #ffffff;
+}
+#header1 .header-wrapper1{
+    position: relative;
+}
+#header1 .header-wrapper1 > img{
+    position: relative;
+    margin: 0.8rem 0.8rem 0.5rem 2rem;
+    height: 4.3rem;
+    display: inline-block;
+}
+#header1 .header-wrapper1 .title{
+    position: relative;
+    display: inline-block;
+    color: #ffffff;
+    line-height: 1rem;
+    vertical-align: top;
+}
+#header1 .header-wrapper1 .title > h2{
+    position: relative;
+    font-family: cursive;
+    font-weight: 100;
+    line-height: 2rem;
+    /* display: inline-block; */
+}
+#header1 .header-wrapper1 .sub-title{
+    position: relative;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+#header1 .header-wrapper1 .sub-title > p{
+    font-size: 10px;
+    position: absolute;
+    left: -117px;
+    top: -30px;
+    margin: 0;
+    transform: translate(-42%, -50%)
+}
+#header1 .header-wrapper1 .navbar1{
+    position: relative;
+    display: inline-block;
+    float: right;
+    line-height: 2.5rem;
+}
+#header1 .header-wrapper1 .navbar1 > ul{
+    position: relative;
+    display: inline-block;
+    color: #ffffff;
+}
+#header1 .header-wrapper1 .navbar1 > ul > li{
+    position: relative;
+    display: inline;
+    font-size: 1rem;
+    padding: 1rem;
+    font-family: sans-serif;
+    float: right;
+    line-height: 2rem;
+    margin: 0;
+    font-weight: 100;
+}
+
+#header2 {
+    position: relative;
+    background-color: #c51a08;
+    margin: 0;
+}
+#header2 .header-wrapper2 {
+    position: relative;
+    margin: 0;
+    height: 4rem;
+}
+#header .header-wrapper2 > ul{
+    position: relative;
+    margin: 0;
+    text-decoration: none;
+    display: inline-block;
+}
+#header .header-wrapper2 > ul li{
+    font-size: 0.9rem;
+    margin: auto 0.8rem;
+    line-height: 2rem;
+    position: relative;
+    display: inline;
+    color: #ffffff;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+#slider{
+    position: relative;
+    margin: 0;
+}
+#slider .slider-wrapper{
+    position: relative;
+    background-image: url("../img/bgd.png");
+    width: 100%;
+    /* opacity: 10rem; */
+}
+#slider .slider-wrapper .slider-heading{
+    position: relative;
+    margin: 0;
+}
+#slider .slider-wrapper .slider-heading > h2{
+    margin: 0;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 10rem;
+}
+#slider .slider-wrapper .slider-heading > h2 span {
+    text-decoration: underline;
+}
+#slider .slider-wrapper .slider-para{
+    position: relative;
+    margin: 0;
+}
+#slider .slider-wrapper .slider-para > p{
+    /* vertical-align: middle; */
+    text-align: center;
+    line-height: 12rem;
+    margin: auto 8rem;
+    
+}
